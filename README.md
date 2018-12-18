@@ -102,6 +102,3 @@ Clean after tests:
 ```bash
 make clean
 ```
-### TODO
-
-Need to add more tests
